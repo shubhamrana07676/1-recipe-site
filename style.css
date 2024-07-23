@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+.img{
+    width: 100%;
+    margin-top: 50px;
+    
+}
+.main{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1px;
+}
+.prep{
+    background-color: rgb(242, 185, 226);
+    border-radius: 30px;
+}
+.heding{
+    margin-left: 20px;
+    color: purple;
+}
